@@ -1,8 +1,8 @@
 # Developing a Neural Network Classification Model
 
-### Name:  KISHORE J
+### Name:  THENAMIZHTHAN V
 
-### Register Number:212225240072
+### Register Number:212225240175
 
 ## AIM
 To develop a neural network classification model for the given dataset.
